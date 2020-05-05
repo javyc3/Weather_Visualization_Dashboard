@@ -1,0 +1,76 @@
+body {
+        background-color: rgb(255, 0, 0);
+        opacity: 0.7;
+    }
+
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+#humidity-img {
+    position:"absolute";
+    top: 25px;
+    right: 25px;
+    padding: 10px;
+}
+
+#maxtemp-img {
+    text-align:"center";
+}
+
+#cloud-img {
+    text-align:"center";
+}
+
+#wind-img {
+    text-align:"center";
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: olivedrab;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+
+/* li a:hover {
+    background-color: #111;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+} */
