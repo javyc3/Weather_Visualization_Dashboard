@@ -1,7 +1,12 @@
 # Exploring Weather by different regions 
 
+This website visualizes Data analysis of weather. Using a an API from https://openweathermap.org/api. 
+Dased on the data if a region was closer to the equitor the region is typically warmer. On the website the it displays multiple comparisons such as: 
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
 
-create
 # Objectives
 ---
 
@@ -31,9 +36,9 @@ create
 * Table created with bootstrap 
 ---
 
-## Tools/packages used 
+# Tools/packages used 
 
 * HTML 
 * Bootstrap 
-* Css 
+* CSS 
 ---
